@@ -1,0 +1,5 @@
+﻿  task3.cpp
+  Note: including lib: glut32.lib
+  
+e:\2020 3 курс\компьютераня графика\lab3\task3\task3.cpp(64): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  task3.vcxproj -> E:\2020 3 курс\компьютераня графика\lab3\Debug\task3.exe
